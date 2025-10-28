@@ -8,7 +8,7 @@ on:
         - main
 
 jobs:
-    demo-job:
+    demo-job: #job name
         runs-on: ubuntu-latest
 
         steps:
